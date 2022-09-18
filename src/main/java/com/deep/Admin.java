@@ -1,4 +1,4 @@
-package com.akash;
+package com.deep;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
